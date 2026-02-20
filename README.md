@@ -56,7 +56,7 @@ SyllApp/
 
 Szczegółowa dokumentacja dla każdego komponentu projektu znajduje się w odpowiednich folderach:
 
-- **[Frontend Documentation](./frontend/README.md)** — architektura, instalacja, użytkowanie, konfiguracja aplikacji Flutter
+- **[Frontend Documentation](./Frontend/README.md)** — architektura, instalacja, użytkowanie, konfiguracja aplikacji Flutter
 - **[Backend Documentation](./Backend/README.md)** — API endpoints, baza danych, deployment, konfiguracja serwera
 
 ## Szybki start
